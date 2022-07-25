@@ -6,7 +6,7 @@ let handler = async (m, { conn }) => {
     // Kalo ngeyel gk bakal gw up sc lgi.
     
     let txt = `
-Bot ini punya ayang irsan yaitu : aldi😋🥵♥️
+Bot ini punya ayang irsan yaitu : aldi😋🥵🥵♥️😅
 
 
 `
