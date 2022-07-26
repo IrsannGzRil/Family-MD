@@ -2,8 +2,8 @@ const qrku = "https://i.ibb.co/MnbqZ0N/qr-Aguz-Familia-07-06-22-1654614928.png"
 
 let handler = async (m, { conn, usedPrefix }) => conn.sendButtonImg(m.chat, qrku, `
 ╭─「 Donasi • Dana 」
-│ • Three [089691183687]
-│ • Dana  [089691183687]
+│ • - [6282396055503]
+│ • Dana  [6282396055503]
 ╰────
 ╭─「 *NOTE* 」
 │ > Ingin donasi? .owner
